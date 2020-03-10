@@ -1,2 +1,3 @@
 # KC-1st-project
-kings county dataset
+
+Kings County Housing dataset. Emphasis on cleaning, exploring, and feature selection.
