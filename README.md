@@ -1,3 +1,3 @@
 # KC-housing
 
-Kings County Housing dataset. Emphasis on cleaning, exploring, and feature selection.
+Kings County Housing dataset. Emphasis on EDA, feature selection, ANOVA.
